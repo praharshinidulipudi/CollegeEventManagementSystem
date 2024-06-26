@@ -32,7 +32,6 @@ The College Event Management System provides a centralized platform for students
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your/repository.git
    cd repository-folder
    ```
 
